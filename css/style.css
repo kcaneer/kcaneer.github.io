@@ -1,5 +1,37 @@
 /* put your styles here */
 /* be sure to link this file to your index.html file */
-h1 {
-    color: blue;
-}
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    padding-top: 56px;
+  }
+  
+  h1 {
+    font-style: italic;
+    color: #d5ab9c;
+  }
+  
+  a.carousel-control-prev:hover,
+  a.carousel-control-next:hover{
+    background-color: #7189bf;
+  }
+  
+  .carousel-indicators li {
+    background-color: #7189bf;
+  }
+  
+  
+  
+  /* Change these colors */
+  .brand-main {
+    background-color: #c7b198; /* Main Background Color */
+  }
+  
+  .brand {
+    background-color: #7189bf; /* Header and Footer bar Color */
+  }
+  
+  
+  
