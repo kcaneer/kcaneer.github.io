@@ -1,25 +1,21 @@
 /* put your styles here */
 /* be sure to link this file to your index.html file */
 /* CSS files add styling rules to your content */
+  
+body { 
+  padding-top: 65px; 
+}
 
-body {
-    font-family: helvetica, arial, sans-serif;
-    margin: 2em;
-    padding-top: 56px;
-  }
-  
-  h1 {
-    font-style: italic;
-    color: #d5ab9c;
-  }
-  
-  a.carousel-control-prev:hover,
+nav {
+  font: Segoe UI;
+ }
+a.carousel-control-prev:hover,
   a.carousel-control-next:hover{
-    background-color: #7189bf;
+    background-color: #6c757d;
   }
   
   .carousel-indicators li {
-    background-color: #7189bf;
+    background-color: #6c757d;
   }
   
   /* Change these colors */
