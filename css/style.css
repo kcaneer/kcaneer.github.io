@@ -6,9 +6,6 @@ body {
   padding-top: 65px; 
 }
 
-nav {
-  font: Segoe UI;
- }
 a.carousel-control-prev:hover,
   a.carousel-control-next:hover{
     background-color: #6c757d;
@@ -17,4 +14,8 @@ a.carousel-control-prev:hover,
   .carousel-indicators li {
     background-color: #6c757d;
   }
-  
+
+
+h4 { 
+  font-family: "Tenor Sans";
+}
